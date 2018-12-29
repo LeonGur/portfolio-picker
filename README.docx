@@ -14,3 +14,4 @@ The easiest way to install those libraries is with pip:
 1.	pip install quandl
 2.	pip install numpy
 3.	pip install pandas_datareader
+
